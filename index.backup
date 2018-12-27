@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Santosh's Profile</title>
+        <link href="./css/main.css" rel="stylesheet" type="text/CSS"></href>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    </head>
+    <body>
+        <!-- HAMBURGER MENU FOR THE MOBILE SITE -->
+        <header class="hambuger-menu-container">
+            <nav>
+                    <ul class="nav-items">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">Career</a></li>
+                            <li><a href="#">Skills</a></li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="#">Contact</a></li>
+                    </ul>
+            </nav>
+
+            <!-- SILHOUETTE IMAGE AND ITEMS IN IT  -->
+
+
+            <!-- SILHOUETTE IMAGE AND ITEMS IN IT  -->
+
+
+            
+
+
+        </header>
+
+
+        <!-- END OF HAMBURGER MENU FOR THE MOBILE SITE  -->
+
+    </body>
+
+</html>

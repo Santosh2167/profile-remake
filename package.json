@@ -1,0 +1,23 @@
+{
+  "name": "my-profile-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santosh2167/profile-remake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santosh2167/profile-remake/issues"
+  },
+  "homepage": "https://github.com/Santosh2167/profile-remake#readme",
+  "devDependencies": {
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
